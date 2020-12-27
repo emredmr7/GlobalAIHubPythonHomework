@@ -54,7 +54,7 @@ while True:
             elif averages < 70 and averages >= 50:
                 print(f"---------------\nYour average is {averages} Congrats ! Your grade CC")
             elif averages < 50 and averages >= 30:
-                print(f"---------------\nYour average is {averages} Congrats ! Your grade DD")
+                print(f"---------------\nYour average is {averages} . Your grade DD")
             else:
                 print(f"---------------\nYour average is {averages}. Your grade FF.")
                 print("GRADE REPEAT")
